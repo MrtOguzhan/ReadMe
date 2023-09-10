@@ -19,4 +19,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPi7-vfjoJWo0S4vH_wdH7S4U6nhLkWIxrC9kSL8cdA&s" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPi7-vfjoJWo0S4vH_wdH7S4U6nhLkWIxrC9kSL8cdA&s" alt="arduino" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPi7-vfjoJWo0S4vH_wdH7S4U6nhLkWIxrC9kSL8cdA&s" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPi7-vfjoJWo0S4vH_wdH7S4U6nhLkWIxrC9kSL8cdA&s" alt="" width="40" height="40"/> </a>  
+ <a href="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="SQL" width="40" height="40"/> </a> 
+</p>
