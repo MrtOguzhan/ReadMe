@@ -15,10 +15,10 @@
 <p align="left">
 <a href="[https://dev.to/komplatox]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/oguzarslan____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://discord.gg/y.u.s.u.f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPi7-vfjoJWo0S4vH_wdH7S4U6nhLkWIxrC9kSL8cdA&s" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPi7-vfjoJWo0S4vH_wdH7S4U6nhLkWIxrC9kSL8cdA&s" alt="" width="40" height="40"/> </a>  
- <a href="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="SQL" width="40" height="40"/> </a> 
+ <a href="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="SQL" width="40" height="40"/> </a> 
 </p>
