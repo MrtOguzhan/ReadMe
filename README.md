@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Oğuzhan Arslan</h1>
-<h3 align="center">A C# Developer from Turkey.</h3>
+<h3 align="center">A Developer from Turkey.</h3>
 <img align="right" alt="Coding" width=400 src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 -  I’m currently working on C#
 
