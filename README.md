@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Murat Oğuzhan Arslan</h1>
 <h3 align="center">A Developer from Turkey.</h3>
 <img align="right" alt="Coding" width=400 src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
--  I’m currently working on C#
+-  I’m currently working on C# and Web Development
 
 - I also use MYSQL
 
 - I m learning C++
 
-- 💬 Ask me about ''C#,SQL,HTML,Websites''
+- 💬 Ask me about ''C#,SQL,HTML,Websites,Php and PDO''
 
 - 📫 How to reach me ''oguzhan.mrtarslan@gmail.com''
 
